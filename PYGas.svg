@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1826px" height="549px" viewBox="0 0 1826 549" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-5.000000, -2.000000)">
+            <g id="Rectangle-1-+-Triangle-1" transform="translate(406.000000, 422.000000)"></g>
+            <path id="TK-RPG-:-O/L-Line-1" d="M703.3793,471.568157 L722.349998,481.126538 L703.320875,490.568067 L703.345,482.568 L517.095395,481.99538 L517.10462,478.995395 L703.354,479.568 L703.3793,471.568157 Z" fill="#000000" fill-rule="nonzero"></path>
+            <rect id="Tk-PG-Rectangle-1" fill="#8B572A" x="406" y="443" width="113" height="78"></rect>
+            <polygon id="Tk-RPG-Triangle-1" fill="#9B9B9B" points="462.5 422 519 443 406 443"></polygon>
+            <text id="Label:-RPG-Tank-(B5422-F-C)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="429.831" y="478">RPG Tank</tspan>
+                <tspan x="423.727" y="495">(B5422-F C)</tspan>
+            </text>
+            <rect id="TK-PG-:-Rectangle-1" fill="#8B572A" x="780" y="460" width="113" height="78"></rect>
+            <polygon id="Tk-PG:-Triangle-1" fill="#9B9B9B" points="836.5 439 893 460 780 460"></polygon>
+            <line x1="652" y1="437.5" x2="792" y2="437.5" id="TK-PG:-I/L-Line-2" stroke="#000000" stroke-width="3" stroke-linecap="square" transform="translate(722.000000, 437.500000) rotate(90.000000) translate(-722.000000, -437.500000) "></line>
+            <path id="TL-PG-:-Outlet-Line-2" d="M925.5,369 L935,388 L927,388 L927,497 L924,497 L924,388 L916,388 L925.5,369 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="TK-PG-Inlet-Line-1" d="M762.5,497 L781.5,506.5 L762.5,516 L762.5,508 L721.5,508 L721.5,505 L762.5,505 L762.5,497 Z" fill="#000000" fill-rule="nonzero"></path>
+            <line x1="893" y1="498.5" x2="925" y2="498.5" id="TK-PG-O/L-Line-1" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <path id="TK-PG:-I/L-Line-1" d="M762.5,497 L781.5,506.5 L762.5,516 L762.5,508 L721.5,508 L721.5,505 L762.5,505 L762.5,497 Z" fill="#000000" fill-rule="nonzero"></path>
+            <text id="Label:-PG-Tank-(B5422-F)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="808.885" y="492">PG Tank</tspan>
+                <tspan x="804.86" y="509">(B5422-F)</tspan>
+            </text>
+            <ellipse id="Oval" stroke="#979797" fill="#7ED321" cx="1632" cy="276" rx="36" ry="29"></ellipse>
+            <ellipse id="Oval" stroke="#979797" fill="#7ED321" cx="1633" cy="429" rx="36" ry="29"></ellipse>
+            <rect id="Rectangle" stroke="#979797" fill="#7ED321" x="1597" y="281" width="71" height="154"></rect>
+            <g id="Catalyst-Bed" transform="translate(1599.000000, 280.000000)" fill="#D8D8D8" stroke="#4A4A4A">
+                <rect id="Rectangle" x="0" y="0" width="67" height="62"></rect>
+            </g>
+            <g id="Catalyst-Bed" transform="translate(1599.000000, 357.000000)" fill="#D8D8D8" stroke="#4A4A4A">
+                <rect id="Rectangle" x="0" y="0" width="67" height="74"></rect>
+            </g>
+            <line x1="1597" y1="281" x2="1667.59809" y2="343.745938" id="Line-3" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="1600" y1="358" x2="1666.60158" y2="430.627031" id="Line-3" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="1667" y1="281" x2="1600" y2="342" id="Line-3" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="1666.69915" y1="358.75" x2="1596" y2="428" id="Line-3" stroke="#979797" stroke-linecap="square"></line>
+            <path id="Rx2-Outlet-line2" d="M1811.36256,502.441616 L1830.20085,512.258371 L1811.04447,521.438953 L1811.178,513.439 L1634.07326,510.474678 L1634.12348,507.475098 L1811.228,510.44 L1811.36256,502.441616 Z" fill="#000000" fill-rule="nonzero"></path>
+            <text id="Label:-RX2-602-D" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="1615.37598" y="531">2nd reactor</tspan>
+                <tspan x="1634.43457" y="547">602-D</tspan>
+            </text>
+            <path id="Rx2-Inlet-line1" d="M1635.92695,203.93035 L1637.118,228.949 L1645.10929,228.569071 L1636.52378,247.999434 L1626.1308,229.472808 L1634.121,229.092 L1632.93035,204.073046 L1635.92695,203.93035 Z" fill="#000000" fill-rule="nonzero"></path>
+            <line x1="1610" y1="483" x2="1660" y2="481" id="RX2-Outlet-line1" stroke="#000000" stroke-width="3" stroke-linecap="square" transform="translate(1635.000000, 482.000000) rotate(90.000000) translate(-1635.000000, -482.000000) "></line>
+            <line x1="1516.5" y1="537.5" x2="1516.25" y2="204.75" id="Rx2-Inlet-line-3" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <line x1="1516.60101" y1="205" x2="1634.39899" y2="205" id="Rx2-Inlet-line2" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <ellipse id="Oval" stroke="#979797" fill="#F5A623" cx="1322.96765" cy="248.971564" rx="35.9676486" ry="36.971564"></ellipse>
+            <ellipse id="Oval" stroke="#979797" fill="#F5A623" cx="1324.16657" cy="444.028436" rx="35.9676486" ry="36.971564"></ellipse>
+            <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="1288.19892" y="255.345972" width="70.7363756" height="196.331754"></rect>
+            <path id="DeC5--Overhead-for-C5" d="M1433.55224,263.398943 L1452.49999,273.002735 L1433.44831,282.398659 L1433.492,274.399 L1359.08922,273.991772 L1359.10563,270.991817 L1433.508,271.399 L1433.55224,263.398943 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="DeC5--Inlet-line1" d="M1267.89831,387 L1286.89831,396.5 L1267.89831,406 L1267.898,398 L1215.10169,398 L1215.10169,395 L1267.898,395 L1267.89831,387 Z" fill="#000000" fill-rule="nonzero"></path>
+            <line x1="1297" y1="509" x2="1352" y2="511" id="DeC5--Outlet-line1" stroke="#000000" stroke-width="3" stroke-linecap="square" transform="translate(1324.500000, 510.000000) rotate(88.000000) translate(-1324.500000, -510.000000) "></line>
+            <text id="DePentaniser-601-E" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#FFFFFF">
+                <tspan x="1299.144" y="307">DePent</tspan>
+                <tspan x="1303.414" y="324">aniser </tspan>
+                <tspan x="1323" y="341"></tspan>
+                <tspan x="1304.191" y="358">601-E</tspan>
+            </text>
+            <line x1="1327" y1="538" x2="1514.40127" y2="537.5" id="DeC5--Outlet-line2" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <text id="C5" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="1465.55176" y="262">C5</tspan>
+            </text>
+            <line x1="1158" y1="453" x2="1275" y2="457" id="DeC5--Inlet-line2" stroke="#000000" stroke-width="3" stroke-linecap="square" transform="translate(1216.500000, 455.000000) rotate(88.000000) translate(-1216.500000, -455.000000) "></line>
+            <ellipse id="RX1-:-Sphere-bottom" stroke="#979797" fill="#7ED321" cx="1094" cy="284" rx="36" ry="29"></ellipse>
+            <ellipse id="RX1-:-Sphere-bottom" stroke="#979797" fill="#7ED321" cx="1095" cy="437" rx="36" ry="29"></ellipse>
+            <rect id="RX1--:-Rectangle" stroke="#979797" fill="#7ED321" x="1059" y="289" width="71" height="154"></rect>
+            <g id="Catalyst-Bed-2" transform="translate(1060.000000, 288.000000)" fill="#D8D8D8" stroke="#4A4A4A">
+                <rect id="Rectangle" x="0" y="0" width="67.4798452" height="62"></rect>
+            </g>
+            <g id="Catalyst-Bed-2" transform="translate(1060.000000, 365.000000)" fill="#D8D8D8" stroke="#4A4A4A">
+                <rect id="Rectangle" x="0" y="0" width="67.4798452" height="74"></rect>
+            </g>
+            <line x1="1059" y1="289" x2="1129.59809" y2="351.745938" id="RX1--:-Cat-bed-cross" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="1062" y1="366" x2="1128.60158" y2="438.627031" id="RX1--:-Cat-bed-cross" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="1129" y1="289" x2="1062" y2="350" id="RX1--:-Cat-bed-cross" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="1128.69915" y1="366.75" x2="1058" y2="436" id="RX1--:-Cat-bed-cross" stroke="#979797" stroke-linecap="square"></line>
+            <path id="RX1:-Inlet-Line1" d="M1094.77417,211.951098 L1097.77196,212.066346 L1096.849,236.069 L1104.84329,236.376174 L1094.62039,254.997194 L1085.85731,235.646266 L1093.851,235.953 L1094.77417,211.951098 Z" fill="#000000" fill-rule="nonzero"></path>
+            <line x1="1073" y1="488" x2="1116" y2="490" id="RX1-:-O/L-Line-1" stroke="#000000" stroke-width="3" stroke-linecap="square" transform="translate(1094.500000, 489.000000) rotate(87.000000) translate(-1094.500000, -489.000000) "></line>
+            <line x1="1095" y1="511" x2="1216.5" y2="513.5" id="Rx1:-O/L-line-2" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <text id="Ist-reactor-601-D" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="1061.65186" y="534">Ist reactor</tspan>
+                <tspan x="1076.43457" y="550">601-D</tspan>
+            </text>
+            <text id="Label-:-Filter" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="993.38623" y="175">Filter</tspan>
+            </text>
+            <rect id="Filter" stroke="#979797" fill="#D8D8D8" x="997" y="204" width="43" height="20"></rect>
+            <line x1="1040" y1="211.5" x2="1095" y2="211.5" id="Filter-Outlet-Line-1" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <line x1="955.5" y1="365.5" x2="956" y2="212" id="Filter-Inlet-Line-2" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <line x1="956" y1="212.5" x2="997" y2="212.5" id="Filter-Inlet-Line-1" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <line x1="658.5" y1="117.5" x2="658.5" y2="64.5" id="Debutaniser--O/H-Line-1" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <path id="DeC4--Outlet-Line-1" d="M655,328 L655,349 L663,349 L653.5,368 L644,349 L652,349 L652,328 L655,328 Z" fill="#000000" fill-rule="nonzero"></path>
+            <g id="Column" transform="translate(622.000000, 117.000000)" fill="#F5A623" stroke="#979797">
+                <g id="Group-13">
+                    <g id="Group-12">
+                        <ellipse id="Oval" cx="35.9016393" cy="29" rx="35.9016393" ry="29"></ellipse>
+                        <ellipse id="Oval" cx="37.0983607" cy="182" rx="35.9016393" ry="29"></ellipse>
+                    </g>
+                    <rect id="Rectangle" x="1.19672131" y="34" width="70.6065574" height="154"></rect>
+                </g>
+            </g>
+            <text id="Label-:-Pyrolysis-Gasoline" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="554.369141" y="383">Pyrolysis </tspan>
+                <tspan x="555.93457" y="399">Gasoline</tspan>
+            </text>
+            <text id="Label:-Debutaniser-306-E" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#FFFFFF">
+                <tspan x="635.536" y="194">Debuta</tspan>
+                <tspan x="643.306" y="211">niser </tspan>
+                <tspan x="659" y="228"></tspan>
+                <tspan x="640.191" y="245">306-E</tspan>
+            </text>
+            <path id="Debutaniser--O/H-Line-2" d="M706.29661,54.5 L725.29661,64 L706.29661,73.5 L706.296,65.5 L657.5,65.5 L657.5,62.5 L706.296,62.5 L706.29661,54.5 Z" fill="#000000" fill-rule="nonzero"></path>
+            <g id="Column" transform="translate(423.000000, 157.000000)" fill="#F5A623" stroke="#979797">
+                <g id="Group-13">
+                    <g id="Group-12">
+                        <ellipse id="Oval" cx="38.3606557" cy="23.5023697" rx="38.3606557" ry="23.5023697"></ellipse>
+                        <ellipse id="Oval" cx="39.6393443" cy="147.49763" rx="38.3606557" ry="23.5023697"></ellipse>
+                    </g>
+                    <rect id="Rectangle" x="1.27868852" y="27.5545024" width="75.442623" height="124.805687"></rect>
+                </g>
+            </g>
+            <path id="Gasolline-Stri-Outlet-Line-1" d="M460,328 L460,351 L468,351 L458.5,370 L449,351 L457,351 L457,328 L460,328 Z" fill="#000000" fill-rule="nonzero"></path>
+            <text id="Line:-Gasoline-Stripper-20" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="433.352" y="218">Gasoline </tspan>
+                <tspan x="435.669" y="235">Stripper</tspan>
+                <tspan x="462.5" y="252"></tspan>
+                <tspan x="443.439" y="269">202-E</tspan>
+            </text>
+            <line x1="455.666667" y1="157.5" x2="458.333333" y2="21.5" id="Gasolline-Stri-O/H-Line-1" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <path id="Gasolline-Stri-O/L-Line-2" d="M509.898305,12 L528.898305,21.5 L509.898305,31 L509.898,23 L457.101695,23 L457.101695,20 L509.898,20 L509.898305,12 Z" fill="#000000" fill-rule="nonzero"></path>
+            <text id="Label:-83-Deg-C" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="371.544922" y="336">83 Deg C</tspan>
+            </text>
+            <text id="Label-:-To-MC4-Tank" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="746.980469" y="57">To MC4 Tank</tspan>
+            </text>
+            <text id="103-Deg-C" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="706.651855" y="339">103 Deg C</tspan>
+            </text>
+            <line x1="459" y1="367.741832" x2="956.000012" y2="367.258168" id="Gasolline-Stri-Outlet-Line-2" stroke="#000000" stroke-width="3" stroke-linecap="square"></line>
+            <text id="From-Quench-Tower-(1" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="548.95752" y="16">From Quench Tower </tspan>
+                <tspan x="593.158691" y="32">(104-E)</tspan>
+            </text>
+            <ellipse id="Seperator-Sphere2" stroke="#979797" fill="#4A90E2" transform="translate(176.000000, 148.500000) rotate(90.000000) translate(-176.000000, -148.500000) " cx="176" cy="148.5" rx="34" ry="26.5"></ellipse>
+            <ellipse id="Seperator-Sphere1" stroke="#979797" fill="#4A90E2" transform="translate(31.500000, 149.500000) rotate(90.000000) translate(-31.500000, -149.500000) " cx="31.5" cy="149.5" rx="33.5" ry="25.5"></ellipse>
+            <polygon id="Seperator-Rectangle" stroke="#979797" fill="#4A90E2" transform="translate(101.500000, 149.000000) rotate(90.000000) translate(-101.500000, -149.000000) " points="68 79 135 79 135 219 68 219"></polygon>
+            <line x1="118" y1="200.485958" x2="158" y2="200.514042" id="Qw-Seprator-O/L-line-1" stroke="#000000" stroke-width="3" stroke-linecap="square" transform="translate(138.000000, 200.500000) rotate(90.000000) translate(-138.000000, -200.500000) "></line>
+            <text id="Label-:-QW-Seperator-121-F" fill="#FFFFFF" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                <tspan x="59.8242188" y="146">QW Seperator</tspan>
+                <tspan x="88.2138672" y="162">121-F</tspan>
+            </text>
+            <text id="Label:-From-Quench-Tower-(1" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="13.9575195" y="13">From Quench Tower </tspan>
+                <tspan x="58.1586914" y="29">(104-E)</tspan>
+            </text>
+            <text id="Label:-From-PGC" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#4A4A4A">
+                <tspan x="271.88623" y="34">From PGC</tspan>
+            </text>
+            <path id="QW-Seperator-O/L-line2" d="M406.000379,213.807016 L424.899973,223.50523 L405.801645,232.805976 L405.885,224.806 L136.084393,221.984228 L136.115772,218.984393 L405.916,221.806 L406.000379,213.807016 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-4" d="M308,75 L308,202 L316,202 L306.5,221 L297,202 L305,202 L305,75 L308,75 Z M115,43 L115,99 L123,99 L113.5,118 L104,99 L112,99 L112,43 L115,43 Z" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

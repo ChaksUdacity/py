@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="1918px" viewBox="0 0 2560 1918" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>PyGas_Troubleshoot</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(0.000000, -9.000000)">
+            <rect id="Rectangle" stroke="#979797" fill="#37474F" x="0" y="1.13686838e-13" width="2560" height="1908"></rect>
+            <g id="Group-11" transform="translate(1024.000000, 953.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="0" y="0" width="493" height="54"></rect>
+                <text id="POLYMERISATION" font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing="0.75" fill="#FFFFFF">
+                    <tspan x="131.422296" y="29.6">POLYMERISATION</tspan>
+                </text>
+            </g>
+            <g id="Group-13" transform="translate(157.000000, 1511.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#7ED321" x="0" y="0" width="2264" height="246"></rect>
+                <text id="Cyclopentadiene-(CP)" font-family="Geneva" font-size="28" font-weight="normal" letter-spacing="0.875" fill="#FFFFFF">
+                    <tspan x="257.853791" y="56">Cyclopentadiene (CP) polymerises as well as copolymerises with Dienes, especially with Methyl CyloPentadiene (MeCP)</tspan>
+                    <tspan x="1108.59305" y="91" font-size="24" letter-spacing="0.75"></tspan>
+                </text>
+                <g id="Group-15" transform="translate(263.950726, 123.000000)">
+                    <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0" y="0" width="259.001103" height="24.3518519"></rect>
+                    <text id="CP-+-CP" fill="#000000" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" letter-spacing="0.4375">
+                        <tspan x="89.7505239" y="18.3362795">CP + CP</tspan>
+                    </text>
+                </g>
+                <path id="Line-5" d="M640.947685,136.5 L649.947685,141 L640.947685,145.5 L640.947,141.5 L593.175,141.5 L593.175759,145.5 L584.175759,141 L593.175759,136.5 L593.175,140.5 L640.947,140.5 L640.947685,136.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path id="Line-5" d="M1420.84738,200.5 L1429.84738,205 L1420.84738,209.5 L1420.847,205.5 L1373.075,205.5 L1373.07545,209.5 L1364.07545,205 L1373.07545,200.5 L1373.075,204.5 L1420.847,204.5 L1420.84738,200.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path id="Line-5" d="M1006.49454,136.5 L1015.49454,141 L1006.49454,145.5 L1006.494,141.5 L958.722,141.5 L958.722613,145.5 L949.722613,141 L958.722613,136.5 L958.722,140.5 L1006.494,140.5 L1006.49454,136.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path id="Line-5" d="M1414.87113,130.5 L1423.87113,135 L1414.87113,139.5 L1414.871,135.5 L1367.099,135.5 L1367.09921,139.5 L1358.09921,135 L1367.09921,130.5 L1367.099,134.5 L1414.871,134.5 L1414.87113,130.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path id="Line-5" d="M1006.49454,195.5 L1015.49454,200 L1006.49454,204.5 L1006.494,200.5 L958.722,200.5 L958.722613,204.5 L949.722613,200 L958.722613,195.5 L958.722,199.5 L1006.494,199.5 L1006.49454,195.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group-10" transform="translate(175.000000, 967.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="0" y="0" width="493" height="53"></rect>
+                <text id="LAB-RESULTS" font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing="0.75" fill="#FFFFFF">
+                    <tspan x="167.631764" y="34">LAB RESULTS</tspan>
+                </text>
+            </g>
+            <path id="Line-7" d="M825.132653,559.5 L849.132653,571.5 L825.132653,583.5 L825.132,573.5 L763.867347,573.5 L763.867347,569.5 L825.132,569.5 L825.132653,559.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-8" d="M1715.13542,559.5 L1739.13542,571.5 L1715.13542,583.5 L1715.135,573.5 L1655.86458,573.5 L1655.86458,569.5 L1715.135,569.5 L1715.13542,559.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <g id="Group-7" transform="translate(169.000000, 313.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="-2.84217094e-14" y="0" width="493" height="54"></rect>
+                <text id="STRATEGY" font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing="0.75" fill="#FFFFFF">
+                    <tspan x="184.6931" y="35">STRATEGY</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(130.000000, 382.000000)">
+                <rect id="Business-Case" stroke="#000000" fill="#FFFFFF" x="0" y="0" width="598" height="470"></rect>
+                <path id="Line" d="M297.008333,64.5 L297.008,81.5 L301.008333,81.5 L296.508333,90.5 L292.008333,81.5 L296.008,81.5 L296.008333,64.5 L297.008333,64.5 Z" fill="#000000" fill-rule="nonzero"></path>
+                <path id="Line" d="M297.008333,127.5 L297.008,144.5 L301.008333,144.5 L296.508333,153.5 L292.008333,144.5 L296.008,144.5 L296.008333,127.5 L297.008333,127.5 Z" fill="#000000" fill-rule="nonzero"></path>
+                <path id="Line" d="M297.008333,189.5 L297.008,206.5 L301.008333,206.5 L296.508333,215.5 L292.008333,206.5 L296.008,206.5 L296.008333,189.5 L297.008333,189.5 Z" fill="#000000" fill-rule="nonzero"></path>
+                <path id="Line" d="M297.008333,348.5 L297.008,365.5 L301.008333,365.5 L296.508333,374.5 L292.008333,365.5 L296.008,365.5 L296.008333,348.5 L297.008333,348.5 Z" fill="#000000" fill-rule="nonzero"></path>
+                <path id="Line" d="M297.008333,250.5 L297.008,267.5 L301.008333,267.5 L296.508333,276.5 L292.008333,267.5 L296.008,267.5 L296.008333,250.5 L297.008333,250.5 Z" fill="#000000" fill-rule="nonzero"></path>
+                <text id="What-led-to-this?" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="196.004769" y="51">What led to this?</tspan>
+                </text>
+                <text id="Change-in-Business-S" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="146.71513" y="108">Change in Business Strategy</tspan>
+                </text>
+                <text id="Why-Change-in-Busine" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="109.703656" y="164">Why Change in Business Strategy ?</tspan>
+                </text>
+                <text id="Increase-in-Benzene" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="127.571087" y="237">Increase in Benzene Profitability</tspan>
+                </text>
+                <text id="Increase-Benzene-Pro" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="144.402874" y="398">Increase Benzene Production </tspan>
+                </text>
+                <text id="What-changes-are-nee" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="57.3215755" y="300">What changes are needed to realise Benzene </tspan>
+                    <tspan x="231.509808" y="326">Profitability?</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(905.000000, 382.000000)">
+                <rect id="Technical-Case" stroke="#000000" fill="#FFFFFF" x="0" y="0" width="720" height="477"></rect>
+                <path id="Line" d="M364,92 L364,124 L368,124 L363.5,133 L359,124 L363,124 L363,92 L364,92 Z" fill="#000000" fill-rule="nonzero"></path>
+                <text id="What-Technical-chang" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="66.4517827" y="42">What Technical changes are carried out in the Plant to </tspan>
+                    <tspan x="211.442017" y="68">realise Benzene Profitability</tspan>
+                </text>
+                <text id="1st-Stage-reactor:-R" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="88.0097697" y="157">1st Stage reactor: Reduced fresh feed (RPG), while </tspan>
+                    <tspan x="58.6169474" y="183">increasing Recycle, resulting in lower RPG : Recycle Ratio</tspan>
+                </text>
+                <text id="2nd-Stage-reactor:-I" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="65.849115" y="355">2nd Stage reactor: Increased temperature in Top bed </tspan>
+                    <tspan x="128.474847" y="381">to faciltate increased Benzene production</tspan>
+                </text>
+                <text id="H2-Consumption:-H2-t" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="84.6707708" y="249">H2 Consumption: H2 to RPG ratio is maintained to </tspan>
+                    <tspan x="69.330927" y="275">hydrosaturate Dienes while H2:Recycle ratio dropped</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(1774.000000, 381.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0" y="0" width="674" height="477"></rect>
+                <text id="But-lower-C5--compon" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="46.6051878" y="254">But lower C5- components realised in the overhead of </tspan>
+                    <tspan x="100.945764" y="280">the pentaniser despite inceasse in feed rate</tspan>
+                </text>
+                <text id="What-Operational-cha" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="33.5739075" y="61">What Operational changes are carried out in response?</tspan>
+                </text>
+                <text id="Increased-reboiler-d" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="53.367639" y="150">Increased reboiler duty by about 25% in response to </tspan>
+                    <tspan x="220.942102" y="176">increase in feeed rate</tspan>
+                </text>
+                <text id="In-response,-part-of" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="65.513391" y="366">In response, part of overhead stream was dropped </tspan>
+                    <tspan x="177.83468" y="392">into the DePentaniser bottom</tspan>
+                </text>
+                <path id="Line-3" d="M330.033235,195.18 L330.033,219.82 L334.033235,219.82 L329.533235,228.82 L325.033235,219.82 L329.033,219.82 L329.033235,195.18 L330.033235,195.18 Z" fill="#000000" fill-rule="nonzero"></path>
+                <path id="Line-2" d="M330.5,96.5 L330.5,123.5 L334.5,123.5 L330,132.5 L325.5,123.5 L329.5,123.5 L329.5,96.5 L330.5,96.5 Z" fill="#000000" fill-rule="nonzero"></path>
+                <path id="Line-4" d="M332.024372,317.181818 L332.024,337.818 L336.024372,337.818182 L331.524372,346.818182 L327.024372,337.818182 L331.024,337.818 L331.024372,317.181818 L332.024372,317.181818 Z" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group-4" transform="translate(1774.000000, 1027.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0" y="0" width="674" height="423"></rect>
+                <text id="As-the-Overhead-C5-w" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="65.5051003" y="61"> As the Overhead C5 was dropped into thebottom of </tspan>
+                    <tspan x="73.7492409" y="87">the column while at the same time the  higher heat </tspan>
+                    <tspan x="125.45969" y="113">supplied by the  reboiler duty accelerated </tspan>
+                    <tspan x="85.9718971" y="139">polymerisation of Cyclopentadiene present in the</tspan>
+                    <tspan x="205.614475" y="165"> C5 component of Gasoline</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(905.000000, 1026.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0" y="0" width="720" height="423"></rect>
+                <text id="Further-as-it-passed" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="52.7127701" y="202">Further as it passed through the 2nd stage reactor lower </tspan>
+                    <tspan x="51.9180923" y="228">bed, part of it ended as coke deposition in the 2nd &amp; 3rd </tspan>
+                    <tspan x="243.645631" y="254">bed (Co-Mo catalyst). </tspan>
+                </text>
+                <text id="The-polymerised-cycl" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="51.2826996" y="58">The polymerised cyclopentadiene deposited as coke in </tspan>
+                    <tspan x="65.3356782" y="84">the overhead pipeline inlet to the 2nd stage reacor. </tspan>
+                </text>
+                <path id="Line-6" d="M341.578838,114.088235 L341.578,144.911 L345.578838,144.911765 L341.078838,153.911765 L336.578838,144.911765 L340.578,144.911 L340.578838,114.088235 L341.578838,114.088235 Z" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group-6" transform="translate(130.000000, 1032.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0" y="0" width="598" height="423"></rect>
+                <text id="The-confirmation-are" fill="#000000" font-family="Geneva" font-size="21" font-weight="normal" letter-spacing="0.65625">
+                    <tspan x="25.9668934" y="69.6197183">The confirmation are ascertainedthrough the lab </tspan>
+                    <tspan x="33.0318348" y="95.6197183">results which shows a marked increase in C5 % </tspan>
+                    <tspan x="43.403661" y="121.619718">composition for the 2nd stage reactor outlet </tspan>
+                    <tspan x="250.491552" y="147.619718">results</tspan>
+                </text>
+            </g>
+            <g id="Group-12" transform="translate(1811.000000, 952.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="0" y="0" width="577" height="54"></rect>
+                <text id="DEPENTANISER" font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing="0.75" fill="#FFFFFF">
+                    <tspan x="200.423275" y="37">DEPENTANISER</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(998.000000, 313.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="0" y="0" width="493" height="54"></rect>
+                <text id="REACTORS" font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing="0.75" fill="#FFFFFF">
+                    <tspan x="181.883958" y="30.8">REACTORS</tspan>
+                </text>
+            </g>
+            <g id="Group-9" transform="translate(1808.000000, 312.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="0" y="5.68434189e-14" width="577" height="54"></rect>
+                <text id="DEPENTANISER" font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing="0.75" fill="#FFFFFF">
+                    <tspan x="194.444" y="33">DEPENTANISER</tspan>
+                </text>
+            </g>
+            <g id="Group-17" transform="translate(1271.000000, 1634.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0" y="0" width="108" height="25"></rect>
+                <text id="TriCP" fill="#000000" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" letter-spacing="0.4375">
+                    <tspan x="36.8652177" y="17">TriCP</tspan>
+                </text>
+            </g>
+            <path id="Line-11" d="M789.872441,1219.59898 L789.872,1229.598 L844.872441,1229.59898 L844.872441,1233.59898 L789.872,1233.598 L789.872441,1243.59898 L765.872441,1231.59898 L789.872441,1219.59898 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-9" d="M2113,871 L2113,910.811 L2123,910.811321 L2111,934.811321 L2099,910.811321 L2109,910.811 L2109,871 L2113,871 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-10" d="M1691.87244,1225.59898 L1691.872,1235.598 L1741.87244,1235.59898 L1741.87244,1239.59898 L1691.872,1239.598 L1691.87244,1249.59898 L1667.87244,1237.59898 L1691.87244,1225.59898 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <text id="Trouble-shoot:-Coke" font-family="Geneva" font-size="48" font-weight="normal" letter-spacing="1.5" fill="#FFFFFF">
+                <tspan x="1059.99609" y="96">Trouble shoot:</tspan>
+                <tspan x="760.371094" y="156"> Coke formation in the Overhead line &amp;</tspan>
+                <tspan x="430.394531" y="216">Increased Delta P across Lower beds of  to the 2nd stage reactor</tspan>
+            </text>
+            <g id="Group-20" transform="translate(1250.000000, 1697.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0" y="0" width="168" height="30"></rect>
+                <text id="MeDiCP" fill="#000000" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" letter-spacing="0.4375">
+                    <tspan x="48.0696856" y="17.6">MeDiCP</tspan>
+                </text>
+            </g>
+            <g id="Group-21" transform="translate(866.000000, 1634.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0" y="0" width="125" height="27"></rect>
+                <text id="DiCP" fill="#000000" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" letter-spacing="0.4375">
+                    <tspan x="46.1270556" y="16.3478261">DiCP</tspan>
+                </text>
+            </g>
+            <g id="Group-19" transform="translate(1668.000000, 1634.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="2.84217094e-14" y="1.19015908e-13" width="161" height="25.826087"></rect>
+                <text id="Oligomers" fill="#000000" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" letter-spacing="0.4375">
+                    <tspan x="41.6414758" y="15">Oligomers</tspan>
+                </text>
+            </g>
+            <g id="Group-18" transform="translate(736.000000, 1697.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0" y="0" width="230" height="30"></rect>
+                <text id="CP-+-MeCP" fill="#000000" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" letter-spacing="0.4375">
+                    <tspan x="76.12725" y="17.6">CP + MeCP</tspan>
+                </text>
+            </g>
+            <g id="Group-16" transform="translate(1656.000000, 1697.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0" y="0" width="199" height="30"></rect>
+                <text id="Oligomers" fill="#000000" font-family="AvenirNext-DemiBold, Avenir Next" font-size="14" font-weight="500" letter-spacing="0.4375">
+                    <tspan x="71.0684674" y="20">Oligomers</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+**Chemical Consumption Optimisation - even further!**
+
+One of the major concerns for the Refinery is to MANAGE OPEX efficiently. Major areas is to optimise catalyst and chemicals consumption. Data Analytics, Artificial Intelligence such as Machine learning. Deep learning, Tensor algorithms can quickly understand the system behaviour from past data using complex algorithms, train, test and suggest an optimised usage of Chemicals thereby 
+
+(1) Reducing the OPEX, 
+(2) Increasing Crude T’put, 
+(3) Operate process units efficiently, 
+(4) Predict Pressure & Temp drop, 
+(5)  Optimise fuel consumption
+(6) Plan maintenance / cleaning in advance
+(7) Select suitable Crudes for processing, 
+(8) Price crude efficiently (benefits / penalty) in the buy decisions, 
+
+
+ Wow ! We started small the benefits are multifold!
+
+
+Potential Benefits* - US $ 10-50 Million
